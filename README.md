@@ -15,3 +15,12 @@ clojure -P
 
 M-x cloel-agent-run
 
+## agent and skills directory
+
+```
+~/.emacs.d/cloel-agent/agent
+```
+
+## support platform
+
+Windows/Linux/FreeBSD/MacOS
